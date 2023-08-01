@@ -43,7 +43,7 @@ The dashboard provides key insights into employee attrition and other HR metrics
 The HR Analytics dashboard provides valuable insights into employee attrition patterns, job satisfaction, and demographics. The analysis highlights potential areas of concern, such as higher attrition rates in certain departments and age groups, as well as satisfaction levels among different job roles. Organizations can use these findings to make data-driven decisions and implement strategies to improve employee retention and overall performance.
 
 ## How to View the Dashboard?
-To view the HR Analytics dashboard, please access the Tableau link: [Link to Tableau Dashboard]([insert_link_here](https://public.tableau.com/app/profile/muhammad.habib1751/viz/HRInsightsDashboard/HRAnalyticsDashboard))
+To view the HR Analytics dashboard, please access the Tableau link: [Link to Tableau Dashboard](https://public.tableau.com/app/profile/muhammad.habib1751/viz/HRInsightsDashboard/HRAnalyticsDashboard)
 
 
 **Note:** This project is for educational purposes only and uses fictional data created by IBM data scientists.
